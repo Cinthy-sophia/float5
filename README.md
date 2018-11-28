@@ -1,6 +1,6 @@
 # float5
-ejercicio float columna 2
-
+ejercicio 2 float 3 columnas 
+```html
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -86,4 +86,4 @@ I have to be the middle column.
 <footer>Copyright stuff....</footer>
 </body>
 </html>
-
+```
